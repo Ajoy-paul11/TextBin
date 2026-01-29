@@ -59,7 +59,7 @@ export default function Home() {
     <div className="container mx-auto px-4 py-6 h-full overflow-auto custom-scrollbar flex flex-col items-center justify-center">
       <div className="w-full max-w-3xl space-y-6">
         <div className="text-center space-y-3">
-          <Heading>Share Code Instantly</Heading>
+          <Heading>Temporary text and Permanent privacy</Heading>
           <SubHeading>Secure, temporary text storage.</SubHeading>
         </div>
 
